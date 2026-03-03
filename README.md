@@ -1,4 +1,4 @@
-# AWS Resource Reporting Script (Linux Cron Project)
+# AWS Resource Reporting Script (Linux Cron)
 
 ## Overview
 
