@@ -93,7 +93,7 @@ This project intentionally:
 -   Writes to flat log files instead of structured logging systems
 -   Does not implement alerting or change detection
 
-Reason: The goal was to practice Linux scheduling behavior and shell
+Reason: The goal was to show Linux scheduling behavior and shell
 execution differences, not build a distributed monitoring system.
 
 ------------------------------------------------------------------------
@@ -120,7 +120,7 @@ controlled.
 
 ------------------------------------------------------------------------
 
-## Future Improvements (Optional)
+## Future Improvements
 
 -   Add log rotation
 -   Implement error handling safeguards
